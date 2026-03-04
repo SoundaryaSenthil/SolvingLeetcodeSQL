@@ -7,5 +7,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0626-exchange-seats](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/0626-exchange-seats/) | Medium |
+| [1907-count-salary-categories](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1907-count-salary-categories/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
