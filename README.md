@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1070-product-sales-analysis-iii](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1341-movie-rating](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1341-movie-rating/) | Medium |
+| [1729-find-followers-count](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1729-find-followers-count/) | Easy |
 | [1907-count-salary-categories](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1907-count-salary-categories/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
