@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0175-combine-two-tables](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/0175-combine-two-tables/) | Easy |
 | [0177-nth-highest-salary](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/0177-nth-highest-salary/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0619-biggest-single-number](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/0619-biggest-single-number/) | Easy |
 | [0626-exchange-seats](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/0626-exchange-seats/) | Medium |
 | [1070-product-sales-analysis-iii](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
