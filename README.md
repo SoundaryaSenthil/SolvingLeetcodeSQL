@@ -12,4 +12,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1341-movie-rating](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1341-movie-rating/) | Medium |
 | [1907-count-salary-categories](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1907-count-salary-categories/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
