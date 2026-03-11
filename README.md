@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/0175-combine-two-tables/) | Easy |
 | [0626-exchange-seats](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/0626-exchange-seats/) | Medium |
 | [1341-movie-rating](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1341-movie-rating/) | Medium |
 | [1907-count-salary-categories](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1907-count-salary-categories/) | Medium |
