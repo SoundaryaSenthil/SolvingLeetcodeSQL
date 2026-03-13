@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/0175-combine-two-tables/) | Easy |
+| [0176-second-highest-salary](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/0177-nth-highest-salary/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/0596-classes-with-at-least-5-students/) | Easy |
