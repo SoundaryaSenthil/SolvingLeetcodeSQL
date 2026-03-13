@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1045-customers-who-bought-all-products](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1070-product-sales-analysis-iii](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
+| [1164-product-price-at-a-given-date](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1341-movie-rating](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1341-movie-rating/) | Medium |
 | [1729-find-followers-count](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
