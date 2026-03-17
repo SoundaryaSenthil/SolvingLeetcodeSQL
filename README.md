@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1070-product-sales-analysis-iii](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1164-product-price-at-a-given-date](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1164-product-price-at-a-given-date/) | Medium |
+| [1321-restaurant-growth](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1321-restaurant-growth/) | Medium |
 | [1341-movie-rating](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1341-movie-rating/) | Medium |
 | [1484-group-sold-products-by-the-date](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/SoundaryaSenthil/SolvingLeetcodeSQL/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
